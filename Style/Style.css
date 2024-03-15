@@ -46,7 +46,7 @@ input::placeholder {
   border-radius: 1rem;
   overflow-y: hidden;
   margin: 3rem 0;
-  background-color: #e3e3e3;
+  background-color: #E9EDF2;
 }
 #shopping-cart-header {
   width: calc(100% - 2rem);
